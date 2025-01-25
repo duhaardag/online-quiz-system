@@ -89,5 +89,4 @@ This project is highly modular and can be extended in various ways:
 ## License
 This project is licensed under the MIT License, making it free to use and modify.
 
-## Contact
-For questions or contributions, please reach out via [your_email@example.com].
+https://medium.com/@ardagduha4/building-an-event-driven-online-quiz-system-in-python-step-by-step-guide-0dad991e9040
